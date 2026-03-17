@@ -6,7 +6,7 @@
 
 **Devcation Hack 'N' Solve** is a national-level hackathon organized by **Google Developer Groups (GDG) IGDTUW** in collaboration with **GDG IIT Delhi**. This landing page is an immersive, high-performance experience built to reflect the convergence of speed, skill, and code.
 
-🔗 **[Live Demo: Insert Your Deployed Link Here]**
+🔗 **(https://ajkinetics.netlify.app/)**
 
 ---
 
